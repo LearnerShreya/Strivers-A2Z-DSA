@@ -59,7 +59,8 @@ The repository is structured as per Striver's roadmap, covering topics in a step
 - Improve problem-solving skills.
 
 ## 📜 Acknowledgements
-Credits to **Striver (Raj Vikramaditya)** for curating this amazing roadmap!
+Credits to **Striver (Raj Vikramaditya)** for curating this amazing roadmap! 
+**Aashish Kumar Nayak** for pdf notes.
 
 ## 🚀 Contributions
 This repository is primarily for personal learning, but feel free to suggest improvements or report issues.
